@@ -20,6 +20,7 @@
 </p>
 
 ## 📫 Contact
+Email: Adrian.ivanherman@gmail.com
 ***
 
 #[LinkedIn](https://www.linkedin.com/in/your-profile)
