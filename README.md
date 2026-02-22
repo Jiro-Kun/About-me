@@ -22,5 +22,5 @@
 ## 📫 Contact
 ***
 
-# [LinkedIn](https://www.linkedin.com/in/your-profile)
-# [Portfolio/Website](https://your-website.com)
+#[LinkedIn](https://www.linkedin.com/in/your-profile)
+#[Portfolio/Website](https://your-website.com)
